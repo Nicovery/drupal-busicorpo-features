@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Busicorpo complet feature.
+ */
+
+include_once 'busicorpo_complet.features.inc';
